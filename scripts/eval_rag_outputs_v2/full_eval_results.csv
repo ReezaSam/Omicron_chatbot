@@ -1,0 +1,488 @@
+question_text,answer_text,exact_hit@10,numeric_hit@10,keyword_hit@10,soft_hit@10,has_numeric_answer
+When was the Rajarata University of Sri Lanka (RUSL) established?,November 1995.,0,1.0,1,0,True
+By which Gazette Notification was the university established?,No: 896/2 of 7th November 1995.,0,1.0,1,0,True
+In which administrative district is the university located?,Anuradhapura.,1,,1,0,False
+What was the Faculty of Applied Sciences (FAS) initially called?,The Central Province Affiliated University College (CPAUC).,0,,1,0,False
+Where was the CPAUC initially located?,Polgolla.,0,,1,0,False
+What is the distance between Polgolla and the main campus at Mihintale?,140 km.,0,1.0,1,0,True
+When was the FAS inaugurated to commence its third-year Degree Programme?,"January 10, 1997.",0,1.0,1,0,True
+How many students were in the first batch of the FAS degree program?,102 students.,0,1.0,1,0,True
+When did the first batch of students graduate?,1998.,1,1.0,1,0,True
+When was the first batch of students directly sent by the UGC enrolled?,November 1997.,1,1.0,1,0,True
+How long did the Faculty function at Polgolla before moving?,Nearly 10 years.,0,1.0,1,0,True
+When was the FAS finally established at the Mihintale campus?,"January 16, 2006.",0,1.0,1,0,True
+What are the five departments that make up the FAS?,"Biological Sciences, Physical Sciences, Health Promotion, Computing, and Chemical Sciences.",0,,1,0,False
+What subjects are offered by the Department of Biological Sciences?,"Botany, Zoology, and Biology.",0,,1,1,False
+What disciplines are covered by the Department of Physical Sciences?,"Physics, Pure Mathematics, Applied Mathematics, and Statistics.",0,,1,0,False
+What does the Department of Computing offer?,Computer Science and Information Technology.,1,,1,1,False
+In what medium are all courses offered at the FAS?,English.,0,,0,0,False
+Does the Faculty conduct English language training?,"Yes, it conducts an intensive course and an ongoing course.",0,,1,0,False
+What is the university's official website?,http://www.rjt.ac.lk/.,0,,1,1,False
+What is the FAS official website?,https://aps.rjt.ac.lk/.,0,,1,1,False
+What is the FAS vision?,"To be a dynamic, innovative, and renowned centre of excellence in learning, research, training, and consultancy.",0,,1,1,False
+What is the FAS mission?,"To promote learning, research, and training among all members to help individuals achieve their full potential.",0,,1,1,False
+Who is the current Vice-Chancellor of RUSL?,Prof. (Mrs.) G. A. S. Ginigaddara.,0,,0,1,False
+Who is the Dean of the Faculty of Applied Sciences?,Dr. W. M. S. Fernando.,0,,0,1,False
+Who is the Dean of the Faculty of Agriculture?,Prof. G.V.T.V. Weerasooriya.,0,,1,1,False
+Who is the Dean of the Faculty of Management Studies?,Prof. P.M.B. Jayathilake.,0,,0,1,False
+Who is the Dean of the Faculty of Medicine & Allied Sciences?,Dr. P. H. G. Janaka Pushpakumara.,0,,1,1,False
+Who is the Dean of the Faculty of Social Sciences & Humanities?,Prof. E. M. S. Ekanayake.,0,,0,0,False
+Who is the Dean of the Faculty of Technology?,Prof. T. C. Bhamunuarachchige.,0,,0,1,False
+Who is the university Librarian?,Mrs. A.S. Siriwardana.,0,,0,1,False
+Who is the Registrar?,Ms. S. C. Herath.,0,,0,0,False
+Who is the Bursar?,Mr. S. S. K. Godakumbura.,0,,0,0,False
+Who is the Head of the Department of Biological Sciences?,Dr. (Mrs) P.N. Yapa.,0,,1,1,False
+Who is the Head of the Department of Physical Sciences?,Mr. M. A. M. Mohammed.,0,,0,1,False
+Who is the Head of the Department of Health Promotion?,Dr. Lalith Senarathna.,0,,0,1,False
+Who is the Head of the Department of Computing?,Dr. K. A. S. H. Kulathilake.,0,,0,1,False
+Who is the Head of the Department of Chemical Sciences?,Prof. Ajith C. Herath.,0,,0,0,False
+Who is the Assistant Registrar of the Faculty?,Ms. V. Kirushnananthy.,0,,0,0,False
+Who is the Assistant Librarian?,Mrs. H. M. H. N. T. Wikramasooriya.,0,,1,1,False
+Who is the Assistant Bursar?,Ms. R. M. S. Rathnayake.,0,,0,1,False
+Who is the FAS Senior Student Counsellor?,Dr. Naleen B. Jayaratna.,0,,0,1,False
+What is the primary role of Student Counsellors?,"To resolve social, academic, personal, or emotional concerns.",0,,1,1,False
+Are counselling services confidential?,"Yes, they provide confidential and non-judgmental service.",0,,1,1,False
+When can mentors be contacted?,At the faculty on working days or via phone and email at any time.,0,,1,1,False
+How is a Mentor defined?,"A lecturer acting as a ""guardian"" and primary contact for academic or personal issues.",0,,1,0,False
+When are students assigned to a mentor group?,At the commencement of their academic life.,1,,1,0,False
+Who is the academic advisor for Biological Sciences?,Prof. (Mrs.) T. V. Sundarabarathy.,0,,1,1,False
+Who is the academic advisor for Computing?,Mr. P. S. Palliyaguruge.,0,,1,1,False
+Who is the academic advisor for Chemical Sciences?,Prof. E. M. R. B. Edirisinghe.,0,,1,0,False
+Who is the academic advisor for Physical Sciences?,Dr. Harshani Wijewardane.,0,,0,1,False
+What does SRC stand for?,Student Request Committee.,0,,1,0,False
+Who chairs the SRC meetings?,The Senior Student Counsellor.,0,,0,0,False
+Who convenes the SRC meetings?,The Assistant Registrar.,0,,0,0,False
+How should students submit requests to the SRC?,Via an online form on the faculty website.,0,,1,0,False
+Whose consent is mandatory for academic requests to the SRC?,The Lecturer in Charge and the Academic Advisor.,0,,1,0,False
+"Whose consent is required for ""other"" (non-academic) SRC requests?",The Head of the Department.,0,,1,0,False
+What is the focus of Career Guidance services?,"Counselling on career paths, industrial training, and life-long career development.",0,,1,1,False
+Who is the FAS coordinator of the Career Guidance Unit (CGU)?,Mrs. Amali Samaranayake.,0,,0,1,False
+What is the University Student Charter?,A guide stating the conditions of the contract between the university and its students.,0,,1,0,False
+Does the charter explain disciplinary procedures?,"Yes, it explains procedures initiated by the university, police, and courts.",0,,1,0,False
+Is ragging a criminal offence?,"Yes, under the Prohibition of Ragging Act No. 20 of 1998.",0,1.0,1,0,True
+What is the maximum punishment for committing ragging?,Rigorous imprisonment for up to two years.,0,,0,0,False
+What is the punishment for ragging that causes sexual harassment?,Imprisonment for up to ten years.,0,,0,0,False
+What is criminal intimidation punishment?,Rigorous imprisonment for up to five years.,0,,0,0,False
+What is the punishment for hostage taking?,Rigorous imprisonment for up to seven years.,0,,0,0,False
+What is the punishment for wrongful restraint?,Rigorous imprisonment for up to seven years.,0,,0,0,False
+What is the punishment for unlawful confinement?,Imprisonment for up to seven years.,0,,0,0,False
+What is the penalty for forcible occupation of university premises?,"Imprisonment up to ten years or a fine of 10,000 rupees.",0,0.0,1,0,True
+What is the punishment for causing mischief to university property?,Imprisonment for up to twenty years and a heavy fine.,0,,0,0,False
+Can a convicted student be expelled?,"Yes, the court may order expulsion.",0,,1,0,False
+Who can grant bail for sexual harassment or hostage-taking?,Only a High Court judge.,0,,1,0,False
+How can students report ragging to the UGC?,Via the online complaint portal.,0,,1,0,False
+What is the UGC complaint portal link?,https://eugc.ac.lk/complaint-portal/.,0,,1,1,False
+Is plagiarism allowed?,"No, it is a form of theft of intellectual property and is prohibited.",0,,1,0,False
+Is alcohol consumption allowed on campus?,"No, possession and consumption are strictly prohibited.",0,,1,0,False
+Are drugs and tobacco permitted?,"No, students are advised to refrain from bringing them into university premises.",0,,1,0,False
+Is gambling allowed?,"No, students caught gambling will be punished under prevailing law.",0,,1,0,False
+How is sexual harassment defined?,"Acts of a sexual nature that are degrading, humiliating, and unwelcome.",0,,1,0,False
+What happens if a student vandalizes classroom furniture?,The replacement cost and penalties will be charged to the student.,0,,1,0,False
+Do students have unrestricted access to the library during working hours?,Yes.,0,,0,0,False
+Do students need permission to visit other universities?,"Yes, they must seek permission from authorities of both universities.",0,,1,0,False
+How do students prove their studentship?,By means of the identity card issued by the university.,0,,1,0,False
+To whom can a student appeal a disciplinary decision?,The Vice Chancellor.,0,,1,0,False
+What is the Learning Management System (LMS)?,"A platform for online learning, course management, and assignment submission.",0,,1,0,False
+What does the EIS allow students to do?,Register for both the semester and courses.,1,,1,1,False
+Does course registration automatically enroll a student for exams?,Yes.,0,,0,0,False
+When is the Add-Drop period for courses?,The first two weeks after the semester begins.,0,,1,0,False
+Can a student drop a compulsory course?,"No, only optional courses may be dropped.",0,,1,0,False
+What happens if a student fails to register within the Add-Drop period?,They are not eligible to sit for corresponding examinations.,0,,1,0,False
+Where is the main university library located?,Within the Mihintale premises.,1,,1,0,False
+What is OPAC?,The Online Public Access Catalogue for searching library materials.,0,,1,0,False
+What is the Reference Assistance Service (RAS)?,A service to assist users in using the library effectively.,0,,1,0,False
+Can students retrieve items from other libraries?,"Yes, through interlibrary loans.",0,,1,0,False
+What is the role of the DELT?,Preparing undergraduates to function in an English-speaking work environment.,0,,1,1,False
+How long is the intensive English course for first-year students?,12-16 weeks.,0,1.0,1,0,True
+What is the min grade required in the English for Science foundation course?,"At least a ""C"" grade.",0,,1,0,False
+When is the ongoing course in English conducted?,During the second semester of the 1st year.,0,1.0,1,1,True
+What is IDC 2201?,"English for Professional Purposes, offered in the second year.",0,,1,1,False
+What services does CITS provide?,"Email, Zoom, computer repairs, internet access, and LMS oversight.",0,,1,0,False
+What are the operating hours of CITS?,Weekdays from 8:00 AM to 6:00 PM.,0,1.0,1,0,True
+Where is the University Career Guidance Unit (UCGU) located?,On the main premises at Mihintale.,0,,1,0,False
+Where are the nearest bank branches?,At the university main entrance (Bank of Ceylon and People’s Bank).,0,,1,1,False
+What are the operating hours of the faculty canteen?,7:00 AM to 8:00 PM.,0,1.0,1,1,True
+"What are the operating hours of the ""Milk Bar""?",7:30 AM to 5:00 PM.,0,1.0,1,1,True
+Who is eligible for hostel facilities?,Undergraduates residing more than 40 km away from university premises.,0,1.0,1,1,True
+Is medical care free for students?,"Yes, Western and Ayurvedic care are provided free of charge.",0,,1,1,False
+What are the operating hours of the Medical Centre?,08:00 AM - 12:00 Noon and 01:00 PM - 04:00 PM on weekdays.,0,1.0,1,1,True
+To which hospitals are emergency medical cases referred?,Mihintale Hospital and Teaching Hospital Anuradhapura.,1,,1,1,False
+What is the purpose of the Cultural Centre?,To respect diversity and preserve cultural heritage.,0,,1,0,False
+Who manages university admissions?,The University Grants Commission (UGC).,0,,1,1,False
+How long is a standard BSc degree program?,Three years (six semesters).,0,,1,1,False
+How long is a BSc Honours degree program?,Four years (eight semesters).,0,,1,1,False
+What is the duration of a standard semester?,15 weeks.,0,1.0,1,0,True
+What is the minimum number of credits for a 3-year BSc degree?,90 credits.,0,1.0,1,0,True
+What is the minimum number of credits for a BSc Honours degree?,120 credits.,1,1.0,1,1,True
+How many notional hours equal one credit for a taught course?,50 hours.,0,1.0,1,0,True
+How many notional hours equal one credit for industrial training?,100 hours.,0,1.0,1,0,True
+What is the maximum number of credits a student can attain per semester?,18 credits.,0,0.0,1,0,True
+What is the maximum number of credits a student can attain in an academic year?,34 credits.,0,0.0,1,0,True
+What is the course code meaning for CHE 1201?,"Chemistry, 1st year, 2 credits, serial number 01.",0,1.0,1,1,True
+What is a Prerequisite (PR)?,A course that must be completed with at least a D grade before a more advanced course.,0,,1,1,False
+What is a Corequisite (CR)?,A course that must be taken simultaneously with another.,0,,1,1,False
+What grade is required for Foundation (FDN) courses?,"At least a ""C"" grade.",0,,1,0,False
+Is Introduction to Computers (FDN 1202) compulsory for IT students?,"No, they are exempted.",0,,1,0,False
+Is General Biology (FDN 1203) compulsory for everyone?,Only for Applied Sciences students who did not study Biology at A/L.,0,,1,1,False
+Who must take Basic Mathematics (FDN 1204)?,Applied Sciences students who did not study in the Physical Science Stream at A/L.,0,,1,1,False
+Which IDCs are compulsory?,"Philosophy of Science (IDC 1201), Career Development (IDC 1202), and Scientific Communication (IDC 4201).",0,1.0,1,1,True
+Is Career Development (IDC 1202) used for GPA?,"No, but it is compulsory to pass with a ""C"".",0,,1,1,False
+How many credits must be from a particular subject to claim it in a degree?,At least 24 credits.,0,1.0,1,0,True
+What are the methods of course assessment?,Continuous assessments and end-semester examinations.,0,,1,0,False
+What is the attendance requirement for exams?,A minimum of 80% attendance.,0,0.0,1,0,True
+What happens if a student misses a final exam without consent?,An E grade will be issued.,1,,1,0,False
+What is the grade point value for A+ and A?,4.0.,0,1.0,1,1,True
+"What is the grade point value for a ""C"" grade?",2.0.,0,1.0,1,1,True
+"What is the grade point value for an ""E"" grade?",0.0.,0,1.0,1,1,True
+How is GPA calculated?,It is the credit-weighted arithmetic mean of grade point values.,0,,1,1,False
+What constitutes an examination irregularity?,"Possession of unauthorized documents, plagiarism, impersonation, or using cellular phones.",0,,1,1,False
+What is the punishment for impersonation?,Prohibition for 4-8 semesters and potential criminal charges.,0,1.0,1,0,True
+What happens if a student is guilty of an irregularity a second time?,Cancellation of studentship.,0,,1,0,False
+What is the minimum GPA needed for BSc in Applied Sciences?,2.00.,0,1.0,1,0,True
+What is the minimum GPA for a First Class in Applied Sciences?,3.70.,0,1.0,1,0,True
+What is the minimum GPA for a Second Class (Upper Division)?,3.30.,0,1.0,1,0,True
+What is the minimum requirement for Second Class (Lower Division)?,A GPA of 3.00.,0,1.0,1,0,True
+Can a student apply for Honours with a GPA of 2.9?,"No, a minimum GPA of 3.00 for the first five semesters is required.",0,1.0,1,0,True
+How many D grades are allowed for Honours application in Applied Sciences?,No more than 6 credits.,0,1.0,1,0,True
+Are extra-curricular activities considered for Honours selection?,"Yes, as additional qualifications.",0,,1,0,False
+What is the marking weight for GPA in the Honours selection interview?,70%.,0,1.0,1,0,True
+What weight is given to Sports in the Honours interview?,05%.,0,1.0,1,0,True
+Is a research project mandatory for Honours students?,"Yes, during the fourth year.",0,,1,0,False
+Can a 4-year Honours student revert to a 3-year degree?,"Yes, if requirements are satisfied and approved.",0,,1,0,False
+What is the maximum time to complete a 4-year BSc Honours degree?,Eight academic years.,0,,1,0,False
+What is the course code for Plant Diversity?,BOT 1201.,0,1.0,1,1,True
+What is the prerequisite for Vertebrate Diversity (ZOO 1302)?,ZOO 1201.,0,1.0,1,1,True
+What is the prerequisite for Statistical Methods in Biology (BIO 1202)?,FDN 1204.,0,0.0,0,0,True
+What is the course title for BOT 2201?,Plant Physiology.,0,,0,0,False
+Is Real Analysis II (MAT 2305) a prerequisite for Mathematical Statistics I?,Yes.,0,,0,0,False
+What is the prerequisite for Statistical Learning (STA 3401)?,Regression Analysis (STA 2304).,0,1.0,1,0,True
+What is the specialization area for BDC courses?,Biodiversity Conservation.,0,,0,0,False
+Does the faculty offer Bursaries?,"Yes, university-called applications for needy students.",0,,1,0,False
+What is the Mahapola Scholarship?,A scholarship awarded by the Mahapola Trust Fund.,0,,0,0,False
+What are the criteria for the Hand in Hand Scholarship?,"Extreme poverty, good GPA, and good discipline.",0,,0,0,False
+Who receives the Dr. Charles Santiapillai Gold Medal?,The most outstanding student in Biodiversity Conservation.,0,,0,0,False
+Is there a gold medal for IT students?,"Yes, the Dr. Sena Yaddehige Gold Medal.",0,,0,0,False
+What is the requirement for the Health Promotion gold medal?,A First or Second Class Upper with a GPA of 3.50 or above.,0,0.0,1,1,True
+Can a student apply for the Dean’s Award?,"Yes, if they meet academic and leadership criteria.",0,,1,0,False
+"What is a ""Grace Chance""?",An extra attempt after normal attempts lapse; only once per subject.,0,,1,0,False
+When must a student request a grace chance?,Before the eighth week of the semester.,0,,1,0,False
+What is the maximum rigorous imprisonment for criminal intimidation?,Five years.,0,,0,0,False
+Is wrongful restraint a punishable offence?,"Yes, up to seven years imprisonment.",0,,0,0,False
+Is bail allowed for hostage-taking suspects?,Only by a High Court judge.,0,,1,1,False
+Does the student handbook reserve the right to amend content?,Yes.,0,,0,0,False
+What is the course title for PHY 2103?,Electronics I.,0,,0,0,False
+Is General Physics (PHY 1201) a prerequisite for Thermodynamics?,Yes.,0,,0,0,False
+What is the credit rating for Graph Theory (MAT 3201)?,2 credits.,0,1.0,1,0,True
+Is Introduction to Statistics (STA 1301) a 3-credit course?,Yes.,0,,0,0,False
+What is the duration of a 1-credit theory exam?,One to one and a half hours.,0,,1,0,False
+What is the duration of a 2-credit theory exam?,Two hours.,0,,1,0,False
+What grade corresponds to a 1.7 grade point?,C-.,0,,1,1,False
+What grade point is a D+?,1.3.,0,1.0,1,1,True
+What is the minimum credits for BSc in Information Technology?,90 credits.,0,1.0,1,0,True
+What is the minimum GPA for a First Class in IT?,3.70.,0,1.0,1,0,True
+How many credits must be from Health Promotion for Honours eligibility?,70 credits within the first five semesters.,0,1.0,1,0,True
+Can a student re-sit if they get an E grade?,"Yes, to improve it to a C.",0,,1,0,False
+What is the code for Foundation courses?,FDN.,0,,1,0,False
+What is the code for Interdisciplinary courses?,IDC.,0,,0,0,False
+Is General Biology (FDN 1203) zero-credited?,"Yes, it does not count for GPA.",0,,1,1,False
+What is IDC 1201?,Philosophy of Science.,0,,1,0,False
+Is Entrepreneurship Development offered in the 3rd year?,Yes.,0,,0,0,False
+What is the prerequisite for Molecular Biology (BIO 3201)?,BIO 2203.,0,0.0,0,0,True
+What does MIB 3201 stand for?,Industrial Microbiology.,0,,1,1,False
+Is Analytical Chemistry (CHE 2103) a second-year course?,Yes.,0,,0,0,False
+What is CHE 3203?,Chemistry of Polymers.,0,,1,1,False
+What is the course title for COM 2308?,Software Engineering.,0,,0,0,False
+What is COM 3303?,Artificial Intelligence.,0,,1,0,False
+Is Quantum Mechanics (PHY 4210) an Honours course?,Yes.,0,,0,0,False
+What is PHY 2210?,Atmospheric Physics.,0,,1,0,False
+What is the prerequisite for Linear Algebra (MAT 2302)?,MAT 1207.,0,0.0,0,0,True
+What is MAT 2306?,Operations Research I.,0,,0,0,False
+Is Probability Theory (STA 1304) a first-year course?,Yes.,0,,0,0,False
+What is the title of STA 2304?,Regression Analysis.,0,,1,0,False
+"Which department offers ""Working with Communities"" (HPT 2302)?",Health Promotion.,0,,1,0,False
+What is HPF 2102?,Introduction to Field Settings.,0,,0,1,False
+What is the course title for ICT 2204?,Web Technology.,0,,1,0,False
+Is Multimedia Technologies (ICT 2210) an IT course?,Yes.,0,,0,0,False
+What is ICT 3301?,Human Computer Interaction.,0,,1,0,False
+Is Scientific Communication compulsory for all 4th year students?,Yes.,0,,0,0,False
+What is the title of BIO 1201?,Cell Biology & Biochemistry.,0,,1,0,False
+What is the prerequisite for Applied Entomology (ZOO 3203)?,ZOO 1203.,0,0.0,0,0,True
+Is Nanochemistry (CHE 4206) an Honours course?,Yes.,0,,0,0,False
+What is COM 1308?,Digital Logic Design.,0,,1,0,False
+What is MAT 3201?,Graph Theory.,0,,1,1,False
+Is Human Resource Management (IDC 3203) offered in 3rd year?,Yes.,0,,0,0,False
+What is the credit rating for Field Project (BIO 3207)?,2 credits.,0,1.0,1,0,True
+What is CHE 1302?,Physical Chemistry I.,0,,1,1,False
+What is COM 1305?,Object Oriented Programming.,0,,1,0,False
+Is Mobile Computing (COM 4201) a 4th-year course?,Yes.,0,,0,0,False
+What is the course title for PHY 3211?,Medical Physics.,0,,1,0,False
+What is STA 2305?,Multivariate Methods.,0,,0,0,False
+Is E-Learning (ICT 4201) a 4th year course?,Yes.,0,,0,0,False
+What is the abbreviation for Biodiversity Conservation?,BDC.,0,,1,0,False
+What is the abbreviation for Fisheries and Aquaculture Management?,FAM.,0,,1,1,False
+What is the abbreviation for Microbiology?,MIB.,0,,1,0,False
+What is the first digit in a course code?,Year of study.,0,,1,1,False
+What is the second digit in a course code?,Credit rating.,0,,1,0,False
+What are the last two digits in a course code?,Serial number.,0,,1,0,False
+Is IDC 1202 a GPA course?,No.,0,,1,0,False
+What is the course title for BIO 1203?,General Microbiology.,0,,1,0,False
+What is the prerequisite for Invertebrate Diversity (ZOO 1201)?,A/L Biology.,0,,1,1,False
+What is the course title for BOT 1202?,Functional Plant Anatomy and Basic Wood Science.,0,,1,1,False
+What is the prerequisite for Animal Behaviour (ZOO 2203)?,ZOO 1302 and ZOO 2201.,0,0.0,1,1,True
+What is the course title for BIO 2201?,Systematic Biology.,0,,1,0,False
+What is the prerequisite for Postharvest Technology (BOT 3203)?,BOT 2204.,0,1.0,1,1,True
+What is the course title for BDC 3301?,Concepts of Biodiversity Conservation.,0,,0,0,False
+What is the prerequisite for Breeding Techniques (FAM 3202)?,FAM 3201.,0,1.0,1,1,True
+What is the title of MIB 3204?,Food Microbiology.,0,,1,0,False
+What is the corequisite for CHE 1203?,CHE 1105.,0,1.0,1,1,True
+What is the prerequisite for Introduction to Biochemistry (CHE 2104)?,1st year Chemistry.,0,1.0,1,1,True
+What is the title of CHE 3209?,Natural Products Chemistry.,0,,1,0,False
+What is the prerequisite for Advanced Physical Chemistry I (CHE 4202)?,CHE 3207.,0,0.0,0,1,True
+What is the title of CHE 4308?,Advanced Environmental Chemistry.,0,,1,1,False
+What is the title of COM 1201?,Principles of Programme Design.,0,,1,0,False
+What is the prerequisite for Systems Analysis and Design (COM 2301)?,COM 1302.,0,1.0,1,1,True
+What is the title of COM 3306?,Operating Systems.,0,,1,0,False
+What is the prerequisite for Intelligent Systems (ICT 4302)?,COM 3303.,0,1.0,1,0,True
+What is the title of PHY 1102?,Waves and Vibrations.,0,,1,1,False
+What is the prerequisite for Electromagnetism (PHY 2102)?,PHY 1203.,0,1.0,1,1,True
+What is the title of PHY 3302?,Mathematical Methods for Physicists.,0,,1,1,False
+What is the title of MAT 1201?,Mathematical Methods I.,0,,1,0,False
+What is the title of MAT 1205?,Real Analysis I.,0,,1,0,False
+What is the title of MAT 2203?,Complex Calculus.,0,,1,0,False
+What is the title of MAT 3202?,Numerical Analysis II.,0,,1,0,False
+What is the title of STA 1301?,Introduction to Statistics.,0,,1,0,False
+What is the title of STA 2302?,Applied Nonparametric Statistics.,0,,1,0,False
+What is the title of STA 3401?,Statistical Learning.,0,,1,0,False
+What is the title of HPT 1103?,Concepts of Health.,0,,1,1,False
+What is the title of HPT 2302?,Working with Communities.,0,,1,0,False
+What is the title of HPT 3205?,Healthy Public Policy and Legislation.,0,,0,0,False
+What is the title of HPT 4204?,Reduction of Suicide.,0,,1,0,False
+What is the title of ICT 1201?,Fundamentals of Computer Systems.,0,,1,0,False
+What is the title of ICT 2305?,Computer Networks.,0,,1,0,False
+What is the title of ICT 3411?,Group Project.,0,,1,1,False
+What is the title of ICT 4306?,E-Commerce.,0,,0,0,False
+What is the title of FDN 1205?,Basic Science for Non-Science Students.,0,,1,1,False
+What is the title of IDC 1201?,Philosophy of Science.,0,,0,0,False
+What is the title of BIO 2302?,Principles of Ecology.,0,,1,0,False
+What is the title of BOT 2202?,Economic Botany.,0,,1,0,False
+What is the title of ZOO 2204?,Fish Biology.,0,,1,0,False
+What is the title of CHE 2205?,Inorganic Chemistry.,0,,1,1,False
+What is the title of COM 2307?,Data Structures and Algorithms.,0,,0,0,False
+What is the title of MAT 2302?,Linear Algebra.,0,,1,0,False
+What is the title of PHY 2204?,Physical Optics.,0,,0,0,False
+What is the title of STA 2301?,Theory of Statistics.,0,,1,1,False
+What is the title of IDC 3201?,Entrepreneurship Development.,0,,0,0,False
+What is the title of BIO 3201?,Molecular Biology.,0,,1,0,False
+What is the title of BOT 3201?,Plant Tissue Culture.,0,,1,1,False
+What is the title of ZOO 3201?,Medical Entomology.,0,,0,0,False
+What is the title of BDC 3301?,Concepts of Biodiversity Conservation.,0,,1,1,False
+What is the title of FAM 3201?,Fisheries and Aquaculture.,0,,1,1,False
+What is the title of MIB 3201?,Industrial Microbiology.,0,,1,1,False
+What is the title of CHE 3201?,Industrial Inorganic Materials.,0,,1,0,False
+What is the title of COM 3401?,Data Communication and Networking.,0,,1,0,False
+What is the title of MAT 3201?,Graph Theory.,0,,1,0,False
+What is the title of PHY 3207?,Energy Resources.,0,,0,0,False
+What is the title of STA 3303?,Independent Study.,0,,1,0,False
+What is the title of IDC 4201?,Scientific Communication.,0,,1,1,False
+What is the title of BDC 4201?,Environmental Policies and Management.,0,,1,0,False
+What is the title of FAM 4201?,Fishery Resources Management.,0,,1,1,False
+What is the title of MIB 4201?,Applied Mycology.,0,,1,0,False
+What is the title of CHE 4201?,Computational Chemistry.,0,,1,1,False
+What is the title of MAT 4301?,Combinatorics.,0,,0,0,False
+What is the title of PHY 4201?,Biophysics.,0,,1,0,False
+What is the title of HPT 4501?,Child Wellbeing and Development.,0,,0,0,False
+What is the title of ICT 4201?,Fundamentals of E-Learning.,0,,0,0,False
+What is the title of ICT 4609?,Individual Research Project.,0,,1,1,False
+How many credits equal a Field work rating?,45 hours.,0,1.0,1,0,True
+How many weeks of industrial training equal 1 credit?,2 weeks.,0,1.0,1,0,True
+How many weeks of research equal 1 credit?,2 weeks.,0,1.0,1,0,True
+Is Mathematics a subject in Applied Sciences?,Yes.,0,,0,0,False
+Is Physics a subject in Applied Sciences?,Yes.,0,,0,0,False
+Is Statistics a subject in Applied Sciences?,Yes.,0,,0,0,False
+Is Chemistry a subject in Applied Sciences?,Yes.,0,,0,0,False
+Is Computer Science a subject in Applied Sciences?,Yes.,0,,0,0,False
+Who receives the Dr. Gamini Wickramasinghe Gold Medal?,The most outstanding student in Physical Sciences.,0,,1,1,False
+Who receives the Dr. Chamila Mannapperuma Memorial Gold Medal?,The most outstanding student in Microbiology.,0,,0,0,False
+Who receives the Dr. Shirani Nathaneal Memorial Gold Medal?,The most outstanding student in Fisheries and Aquaculture Management.,0,,0,0,False
+What aesthetic abilities are marks given for in the Dean's Award?,"Singing, dancing, drama, and writing.",0,,1,1,False
+What is the maximum mark for Community Service in the Dean's Award?,40 marks.,0,0.0,0,0,True
+What is the maximum mark for Sports in the Dean's Award?,125 marks.,0,0.0,0,0,True
+What is the maximum mark for Research in the Dean's Award?,50 marks.,0,1.0,1,0,True
+Does winning a National aesthetic award give marks for the Dean's Award?,Yes.,0,,0,0,False
+Does authoring a paper in a peer-reviewed journal count for the Dean's Award?,Yes.,0,,0,0,False
+Is wrongful restraint a cognizable offence?,Yes.,0,,0,0,False
+Is ragging a cognizable offence?,Yes.,0,,0,0,False
+Is criminal intimidation a cognizable offence?,Yes.,0,,0,0,False
+Is unlawful confinement a cognizable offence?,Yes.,0,,0,0,False
+What is the abbreviation for Applied Sciences Chemistry?,ASC.,0,,1,0,False
+What is the abbreviation for Applied Sciences Physics?,ASP.,0,,1,0,False
+What is the abbreviation for Applied Sciences Computer Sciences?,ASCs.,0,,0,0,False
+What is the abbreviation for Applied Sciences Mathematics?,ASM.,0,,0,0,False
+Is PHY 4308 compulsory for the ASP Honours course?,Yes.,0,,0,0,False
+Is MAT 4301 compulsory for the ASM Honours course?,Yes.,0,,0,0,False
+Is CHE 4605 a research project course for ASC?,Yes.,0,,0,0,False
+Is COM 4604 a research project course for ASCs?,Yes.,0,,0,0,False
+Is MAT 4610 a research project course for ASM?,Yes.,0,,0,0,False
+Is PHY 4613 a research project course for ASP?,Yes.,0,,0,0,False
+Which subject combinations are eligible for Industrial Mathematics Honours?,"CCsM, CMP, CMS, CsMP, PMS, CsMS, CM, MP, CsM.",0,,1,0,False
+Is IDC 3203 compulsory for Industrial Mathematics Honours?,Yes.,0,,0,0,False
+What is the credit rating for MAT 4310 (Industrial Training Program)?,3 credits.,0,1.0,1,0,True
+What is the credit rating for MAT 4609 (Research Project)?,6 credits.,0,1.0,1,0,True
+Is PHY 3302 compulsory for Joint Major Physics?,Yes.,0,,0,0,False
+Is CHE 4605 a 6-credit research project?,Yes.,0,,0,0,False
+Is PHY 4613 a 6-credit research project?,Yes.,0,,0,0,False
+Is BIO 3201 compulsory for BDC specialization?,Yes.,0,,0,0,False
+Is BIO 3206 compulsory for BDC specialization?,Yes.,0,,0,0,False
+Is FAM 3201 compulsory for FAM specialization?,Yes.,0,,0,0,False
+Is MIB 3201 compulsory for MIB specialization?,Yes.,0,,0,0,False
+"Is BIO 4204 compulsory for BDC, FAM, and MIB specializations?",Yes.,0,,0,0,False
+Is BDC 4810 an 8-credit research project?,Yes.,0,,0,0,False
+Is FAM 4810 an 8-credit research project?,Yes.,0,,0,0,False
+Is MIB 4810 an 8-credit research project?,Yes.,0,,0,0,False
+Is CHE 4216 compulsory for Chemistry Honours?,Yes.,0,,0,0,False
+What is the title of CHE 3216?,Advanced Analytical and Environmental Chemistry – Laboratory.,0,,1,1,False
+What is the title of CHE 3121?,Industrial Training.,0,,0,0,False
+What is the title of CHE 3223?,Current Topics in Chemistry.,0,,1,1,False
+What is the title of CHE 4206?,Nanochemistry.,0,,0,0,False
+What is the title of MAT 4304?,Statistical Quality Control.,0,,1,0,False
+What is the title of PHY 4308?,Characterization Techniques.,0,,0,0,False
+What is the title of PHY 4211?,Nanomaterials and Nanotechnology.,0,,0,0,False
+What is the title of PHY 4215?,Applied Geophysics.,0,,0,0,False
+What is the title of ICT 1404?,Mathematics and Statistics for Computing.,0,,0,0,False
+What is the title of ICT 2408?,Computer Organization and Architecture.,0,,1,0,False
+What is the title of ICT 3205?,Information Technology Project Management.,0,,1,1,False
+What is the title of ICT 4307?,Bio Informatics and Computational Biology.,0,,0,0,False
+What is the title of HPF 1101?,Devising Applicable Measures of Individual and Group Health.,0,,1,1,False
+What is the title of HPF 2201?,Applying Measures to Improve Health Status of a Student Group.,0,,1,1,False
+What is the title of HPT 3312?,The Sri Lankan Situation of Major Health Issues.,0,,1,1,False
+What is the title of HPP 4801?,Project (Part I).,0,,1,1,False
+What is the title of HPP 4802?,Project (Part II).,0,,1,1,False
+Is COM 1308 a 3-credit course?,Yes.,0,,0,0,False
+Is PHY 3302 a 3-credit course?,Yes.,0,,0,0,False
+Is MAT 2302 a 3-credit course?,Yes.,0,,0,0,False
+Is STA 1301 a 3-credit course?,Yes.,0,,0,0,False
+Is STA 3401 a 4-credit course?,Yes.,0,,0,0,False
+Is HPT 1306 a 3-credit course?,Yes.,0,,0,0,False
+Is ICT 1402 a 4-credit course?,Yes.,0,,0,0,False
+Is ICT 4609 a 6-credit course?,Yes.,0,,0,0,False
+Is ICT 4410 a 4-credit course?,Yes.,0,,0,0,False
+Is IDC 1201 a 2-credit course?,Yes.,0,,0,0,False
+Is IDC 4201 a 2-credit course?,Yes.,0,,0,0,False
+"What is the abbreviation for Chemistry, Computer Science, and Physics?",CCsP.,0,,0,0,False
+"What is the abbreviation for Chemistry, Mathematics, and Physics?",CMP.,0,,0,0,False
+"What is the abbreviation for Physics, Mathematics, and Statistics?",PMS.,0,,0,0,False
+"What is the abbreviation for Chemistry, Botany, and Zoology?",CBoZo.,0,,0,0,False
+What is the abbreviation for Chemistry and Physics?,CP.,0,,0,0,False
+What is the abbreviation for Mathematics and Physics?,MP.,0,,1,0,False
+What is the abbreviation for Computer Science and Statistics?,CsS.,0,,0,0,False
+Is a student allowed to drop a subject in a three-subject combination?,"Yes, to change it to a two-subject combination.",0,,1,0,False
+When is the deadline to transfer from a three-subject to a two-subject combination?,Up to the second year first semester within the add/drop period.,0,,1,0,False
+Can a student drop a subject from a combination with Botany and Zoology?,No.,0,,1,0,False
+"If a combination includes Mathematics and Statistics, which can be dropped?",Only Mathematics or Statistics.,0,,1,1,False
+What is the minimum number of students required for a subject combination to be offered?,10 students.,0,1.0,1,0,True
+Is the 10-student limit relevant to freshly introduced subjects?,"No, not for the first three years.",0,,1,0,False
+Is BIO 1201 counted as a Zoology course in the CBoZo combination?,Yes.,0,,0,0,False
+Is BIO 1202 counted as a Botany course in the CBoZo combination?,Yes.,0,,0,0,False
+Is BIO 1203 counted as a Botany course in the CBoZo combination?,Yes.,0,,0,0,False
+Is FDN 1203 compulsory for those who followed Combined Maths at A/L?,Yes.,0,,0,0,False
+Is FDN 1204 compulsory for those who followed Biology at A/L?,Yes.,0,,0,0,False
+Is CHE 3214 compulsory in the CCs combination?,Yes.,0,,0,0,False
+Is COM 3405 compulsory in the CCs combination?,Yes.,0,,0,0,False
+Is MAT 3202 compulsory in the CM combination?,Yes.,0,,0,0,False
+Is MAT 3206 compulsory in the CM combination?,Yes.,0,,0,0,False
+Is PHY 3209 compulsory in the CP combination?,Yes.,0,,0,0,False
+Is STA 3303 compulsory in the CS combination?,Yes.,0,,0,0,False
+Is COM 4604 compulsory for the ASCs Honours?,Yes.,0,,0,0,False
+Is CHE 4605 compulsory for the ASC Honours?,Yes.,0,,0,0,False
+Is MAT 4610 compulsory for the ASM Honours?,Yes.,0,,0,0,False
+Is PHY 4613 compulsory for the ASP Honours?,Yes.,0,,0,0,False
+"Is IDC 4201 compulsory for ASM, ASP, ASCs, and ASC?",Yes.,0,,0,0,False
+Is MAT 4301 a compulsory course for ASM?,Yes.,0,,0,0,False
+What is the abbreviation for Information Technology?,IT.,0,,0,0,False
+What is the abbreviation for Health Promotion?,HP.,0,,1,0,False
+What is the abbreviation for Faculty of Applied Sciences?,FAS.,0,,1,0,False
+What is the abbreviation for Rajarata University of Sri Lanka?,RUSL.,0,,1,0,False
+What is the abbreviation for Central Province Affiliated University College?,CPAUC.,0,,0,0,False
+Is MAT 4301 (Combinatorics) a 3-credit course?,Yes.,0,,0,0,False
+Is MAT 4302 (Computational Mathematics) a 3-credit course?,Yes.,0,,0,0,False
+Is MAT 4305 (Operations Research III) a 3-credit course?,Yes.,0,,0,0,False
+Is MAT 4306 (Operations Research IV) a 3-credit course?,Yes.,0,,0,0,False
+Is MAT 4308 (Statistical Quality Control) a 3-credit course?,Yes.,0,,0,0,False
+Is MAT 4609 (Research Project) a 6-credit course?,Yes.,0,,0,0,False
+Is PHY 4302 a 3-credit course?,Yes.,0,,0,0,False
+Is PHY 4613 a 6-credit course?,Yes.,0,,0,0,False
+Is CHE 4210 a 2-credit course?,Yes.,0,,0,0,False
+Is CHE 4814 an 8-credit course?,Yes.,0,,0,0,False
+Is HPT 4501 a 5-credit course?,Yes.,0,,0,0,False
+Is HPT 4506 a 5-credit course?,Yes.,0,,0,0,False
+Is HPP 4801 an 8-credit course?,Yes.,0,,0,0,False
+Is HPP 4802 an 8-credit course?,Yes.,0,,0,0,False
+Is IDC 1201 (Philosophy of Science) compulsory?,Yes.,0,,0,0,False
+Is IDC 1202 (Career Development) compulsory?,Yes.,0,,0,0,False
+Is IDC 4201 (Scientific Communication) compulsory for Applied Sciences?,Yes.,0,,0,0,False
+Is IDC 4201 (Research Methodology) compulsory for IT?,Yes.,0,,0,0,False
+Is IDC 3201 (Entrepreneurship Development) compulsory for IT?,Yes.,0,,0,0,False
+Is ICT 3411 (Group Project) compulsory for the BSc in IT degree?,Yes.,0,,0,0,False
+Is COM 3405 (Group Project) compulsory for the BSc in Applied Sciences (CS)?,Yes.,0,,0,0,False
+Is BIO 3207 (Field Project) an optional course?,Yes.,0,,0,0,False
+Is CHE 3210 (Research Project) an optional course?,Yes.,0,,0,0,False
+Is STA 3303 (Independent Study) a compulsory course?,Yes.,0,,0,0,False
+What is the prerequisite for ZOO 2203?,ZOO 1302 and ZOO 2201.,0,0.0,1,1,True
+What is the prerequisite for ZOO 3203?,ZOO 1203.,0,0.0,0,0,True
+What is the prerequisite for BIO 3204?,BIO 2203 and BIO 3201.,0,0.0,0,1,True
+What is the prerequisite for FAM 3201?,ZOO 2204.,0,0.0,0,0,True
+What is the prerequisite for CHE 2201?,"CHE 1302, CHE 1104, and CHE 1105.",0,1.0,1,1,True
+What is the prerequisite for CHE 3311?,CHE 2103 and CHE 2106.,0,0.0,0,0,True
+What is the prerequisite for COM 1305?,COM 1201.,0,0.0,0,0,True
+What is the prerequisite for COM 2307?,COM 1201 and COM 1407.,0,0.0,1,1,True
+What is the prerequisite for COM 3306?,COM 2307.,0,1.0,1,0,True
+What is the prerequisite for PHY 2101?,A/L Physics or PHY 1201.,0,1.0,1,1,True
+What is the prerequisite for MAT 2201?,MAT 1201.,0,1.0,1,0,True
+What is the prerequisite for MAT 2305?,MAT 1205.,0,1.0,1,0,True
+What is the prerequisite for STA 1304?,STA 1202.,0,0.0,0,0,True
+What is the prerequisite for STA 3401?,STA 2304.,0,1.0,1,0,True
+What is the prerequisite for STA 3402?,STA 3401.,0,1.0,1,0,True
+Is CHE 1104 a corequisite for CHE 1201?,Yes.,0,,0,0,False
+Is CHE 1105 a corequisite for CHE 1203?,Yes.,0,,0,0,False
+Is PHY 1205 a corequisite for PHY 1201?,Yes.,0,,0,0,False
+Is PHY 2207 a corequisite for PHY 2101?,Yes.,0,,0,0,False
+Is COM 3306 a corequisite for COM 3307?,Yes.,0,,0,0,False
+Is STA 2207 a corequisite for STA 2302?,Yes.,0,,0,0,False
+Is IDC 1201 title Philosophy of Science?,Yes.,0,,0,0,False
+Is IDC 2201 title English for Professional Purposes?,Yes.,0,,0,0,False
+Is IDC 2203 title Principles and Practices of Marketing?,Yes.,0,,0,0,False
+Is IDC 3201 title Entrepreneurship Development?,Yes.,0,,0,0,False
+Is IDC 3202 title Standards and Quality Management Systems?,Yes.,0,,0,0,False
+Is IDC 3203 title Human Resource Management?,Yes.,0,,0,0,False
+Is IDC 4201 (Applied) title Scientific Communication?,Yes.,0,,0,0,False
+Is IDC 4201 (IT) title Research Methodology?,Yes.,0,,0,0,False
+What is the duration of an intensive English course?,12-16 weeks.,0,1.0,1,0,True
+Are students grouped by competency in the English course?,Yes.,0,,0,0,False
+Is regular attendance compulsory for the English course?,Yes.,0,,0,0,False
+Is FDN 1202 (Introduction to Computers) compulsory?,Yes (except for IT students).,0,,1,0,False
+What topics are in FDN 1202?,"Architecture, Hardware, Software, Programming languages, DOS, Windows.",0,,1,0,False
+Which micro-computer applications are in FDN 1202?,"MS Word, MS Excel, MS Access, MS FrontPage.",0,,1,1,False
+What is the nature of Biology in FDN 1203?,"Methods of inquiry, basic concepts, biomes, microhabitats.",0,,1,0,False
+What are the topics in FDN 1204?,"Sets, Inequalities, Equations, Functions, Limits, Derivatives.",0,,1,0,False
+Does FDN 1204 cover Matrices?,Yes.,0,,0,0,False
+What is the goal of FDN 1205?,To introduce science and technology to non-science students.,0,,1,1,False
+Does FDN 1205 cover Astronomy?,Yes.,0,,0,0,False
+Does FDN 1205 cover Earth Science?,Yes.,0,,0,0,False
+Does FDN 1205 cover Radiation?,Yes.,0,,0,0,False
+Does FDN 1205 cover Ecosystems?,Yes.,0,,0,0,False
+What are the topics in FDN 1306?,"Sets, equations, functions, trigonometry, limits, derivatives.",0,,1,0,False
+Does FDN 1306 cover Probability?,Yes.,0,,0,0,False
+What is the objective of IDC 1201?,"To analyze problems related to knowledge, metaphysics, and ethics.",0,,1,0,False
+Does IDC 1201 analyze the reliability of scientific knowledge?,Yes.,0,,0,0,False
+What is the assessment for IDC 1202?,Continuous assessments and a portfolio assessment at the end of the third year.,0,,1,1,False
+What are the biomolecules in BIO 1201?,"Ions, Carbohydrates, Lipids, Proteins, Nucleic acids.",0,,1,1,False
+Does BIO 1202 cover Normal distribution?,Yes.,0,,0,0,False
+Does BIO 1202 use statistical software?,Yes.,0,,0,0,False
+What is in BIO 1203?,"Microbial naming, classification, microscopy, cell structure.",0,,1,0,False
+What is the focus of BOT 1201?,"Algae, fungi, bryophytes, pteridophytes, gymnosperms.",0,,0,0,False
+What are the meristematic tissues in BOT 1202?,"Types, origin, and functions.",0,,1,0,False
+What is the focus of ZOO 1201?,"Protozoan groups, Porifera, Cnidaria, Mollusca, etc..",0,,1,0,False
+What are the vertebrate classes in ZOO 1302?,"Jawless fish, Jawed fish, Amphibia, Reptilia, Aves, Mammalia.",0,,1,1,False
+What is the definition of Insecta in ZOO 1203?,Abundance and causes of success.,0,,1,0,False
+What are the periodic properties in CHE 1201?,Periodic Law.,0,,1,0,False
+Does CHE 1302 cover Thermodynamics?,Yes,0,,0,0,False

@@ -1,0 +1,416 @@
+question_text,label
+What subjects do I have this semester?,clarify
+What courses do I have this semester?,clarify
+What modules do I have this semester?,clarify
+What subjects are offered this semester?,clarify
+What courses are offered this semester?,clarify
+What modules are offered this semester?,clarify
+What are the semester 1 subjects?,clarify
+What are the semester 2 subjects?,clarify
+What are the semester 1 courses?,clarify
+What are the semester 2 courses?,clarify
+What are the semester 1 modules?,clarify
+What are the semester 2 modules?,clarify
+What are the first year subjects?,clarify
+What are the second year subjects?,clarify
+What are the third year subjects?,clarify
+What are the fourth year subjects?,clarify
+What are the first year courses?,clarify
+What are the second year courses?,clarify
+What are the third year courses?,clarify
+What are the fourth year courses?,clarify
+What electives can I choose?,clarify
+Which electives are available?,clarify
+What optional subjects are available?,clarify
+Which optional courses are available?,clarify
+Which optional modules are available?,clarify
+What compulsory subjects do I have?,clarify
+Which courses are compulsory?,clarify
+Which modules are compulsory?,clarify
+What practical subjects do I have?,clarify
+What lab courses are available?,clarify
+What practical modules are available?,clarify
+What is the course structure?,clarify
+What is the module structure?,clarify
+What subjects should I take?,clarify
+What courses should I take?,clarify
+What modules should I take?,clarify
+What subjects should I register for?,clarify
+What courses should I register for?,clarify
+What modules should I register for?,clarify
+List my subjects?,clarify
+List my courses?,clarify
+List my modules?,clarify
+Show my subjects?,clarify
+Show my courses?,clarify
+Show my modules?,clarify
+Tell me my subjects?,clarify
+Tell me my courses?,clarify
+Tell me my modules?,clarify
+Give me my subjects?,clarify
+Give me my courses?,clarify
+Give me my modules?,clarify
+What subjects are available next semester?,clarify
+What courses are available next semester?,clarify
+What modules are available next semester?,clarify
+What subjects are available this year?,clarify
+What courses are available this year?,clarify
+What modules are available this year?,clarify
+What subjects are required this year?,clarify
+What courses are required this year?,clarify
+What modules are required this year?,clarify
+What subjects do students study in year 1?,clarify
+What subjects do students study in year 2?,clarify
+What subjects do students study in year 3?,clarify
+What modules do students study in year 1?,clarify
+What modules do students study in year 2?,clarify
+What modules do students study in year 3?,clarify
+What subjects are included in the program?,clarify
+What courses are included in the program?,clarify
+What modules are included in the program?,clarify
+What subjects do I need to complete?,clarify
+What courses do I need to complete?,clarify
+What modules do I need to complete?,clarify
+What subjects should I prioritize?,clarify
+What courses should I prioritize?,clarify
+What modules should I prioritize?,clarify
+What subjects are part of my degree?,clarify
+What courses are part of my degree?,clarify
+What modules are part of my degree?,clarify
+What subjects are in the curriculum?,clarify
+What courses are in the curriculum?,clarify
+What modules are in the curriculum?,clarify
+What subjects can I select?,clarify
+What courses can I select?,clarify
+What modules can I select?,clarify
+What subjects can I enroll in?,clarify
+What courses can I enroll in?,clarify
+What modules can I enroll in?,clarify
+What subjects are open for registration?,clarify
+What courses are open for registration?,clarify
+What modules are open for registration?,clarify
+What subjects are there?,clarify
+What courses are there?,clarify
+What modules are there?,clarify
+What subjects are offered?,clarify
+What courses are offered?,clarify
+What modules are offered?,clarify
+What subjects are in semester one?,clarify
+What subjects are in semester two?,clarify
+What modules are in semester one?,clarify
+What modules are in semester two?,clarify
+What courses are in semester one?,clarify
+What courses are in semester two?,clarify
+What subjects are in year one?,clarify
+What subjects are in year two?,clarify
+What modules are in year one?,clarify
+What modules are in year two?,clarify
+What courses are in year one?,clarify
+What courses are in year two?,clarify
+What subjects are in this semester?,clarify
+What courses are in this semester?,clarify
+What modules are in this semester?,clarify
+What are my semester subjects?,clarify
+What are my semester courses?,clarify
+What are my semester modules?,clarify
+What subjects are available now?,clarify
+What courses are available now?,clarify
+What modules are available now?,clarify
+What subjects do I study?,clarify
+What courses do I study?,clarify
+What modules do I study?,clarify
+What are the available subjects?,clarify
+What are the available courses?,clarify
+What are the available modules?,clarify
+What subjects are in the handbook?,clarify
+What courses are in the handbook?,clarify
+What modules are in the handbook?,clarify
+What subjects are in my programme?,clarify
+What courses are in my programme?,clarify
+What modules are in my programme?,clarify
+What subjects are in my degree?,clarify
+What courses are in my degree?,clarify
+What modules are in my degree?,clarify
+What subjects are taught this year?,clarify
+What courses are taught this year?,clarify
+What modules are taught this year?,clarify
+What subjects are available for my batch?,clarify
+What courses are available for my batch?,clarify
+What modules are available for my batch?,clarify
+What subjects can I add?,clarify
+What modules can I add?,clarify
+What subjects can I drop?,clarify
+What courses can I drop?,clarify
+What modules can I drop?,clarify
+What subjects are included this semester?,clarify
+What courses are included this semester?,clarify
+What modules are included this semester?,clarify
+What subjects are scheduled this semester?,clarify
+What courses are scheduled this semester?,clarify
+What subjects are available for enrollment?,clarify
+What courses are available for enrollment?,clarify
+What modules are available for enrollment?,clarify
+What subjects are available for study?,clarify
+What courses are available for study?,clarify
+What modules are available for study?,clarify
+What subjects are in the academic plan?,clarify
+What courses are in the academic plan?,clarify
+What subjects are assigned this semester?,clarify
+What courses are assigned this semester?,clarify
+What modules are assigned this semester?,clarify
+What subjects are available for selection?,clarify
+What courses are available for selection?,clarify
+What modules are available for selection?,clarify
+What subjects can students choose?,clarify
+What courses can students choose?,clarify
+What subjects are available for first semester?,clarify
+What subjects are available for second semester?,clarify
+What courses are available for first semester?,clarify
+What courses are available for second semester?,clarify
+What modules are available for first semester?,clarify
+What modules are available for second semester?,clarify
+What subjects are part of semester one?,clarify
+What subjects are part of semester two?,clarify
+What courses are part of semester one?,clarify
+What courses are part of semester two?,clarify
+What modules are part of semester one?,clarify
+What modules are part of semester two?,clarify
+What subjects are compulsory this year?,clarify
+What courses are compulsory this year?,clarify
+What modules are compulsory this year?,clarify
+What subjects are optional this year?,clarify
+What courses are optional this year?,clarify
+What modules are optional this year?,clarify
+What subjects are offered this academic year?,clarify
+What courses are offered this academic year?,clarify
+What modules are offered this academic year?,clarify
+What subjects are in the yearly plan?,clarify
+What courses are in the yearly plan?,clarify
+What modules are in the yearly plan?,clarify
+What subjects are provided this semester?,clarify
+What courses are provided this semester?,clarify
+What modules are provided this semester?,clarify
+What subjects are taken in this year?,clarify
+What courses are taken in this year?,clarify
+What modules are taken in this year?,clarify
+What subjects are studied in semester one?,clarify
+What subjects are studied in semester two?,clarify
+What courses are studied in semester one?,clarify
+What courses are studied in semester two?,clarify
+What modules are studied in semester one?,clarify
+What modules are studied in semester two?,clarify
+Can I appeal my final grade?,escalate
+How do I appeal an exam result?,escalate
+How do I request a re-evaluation?,escalate
+How do I request a marking review?,escalate
+How do I apply for special consideration?,escalate
+"""I missed my exam due to illness, what should I do?""",escalate
+Can I defer this semester?,escalate
+How do I request a deadline extension?,escalate
+Can I change my degree programme?,escalate
+Can I transfer to another department?,escalate
+Can I withdraw after the deadline?,escalate
+Can I get approval for late registration?,escalate
+Can I override a prerequisite?,escalate
+What happens if I am accused of plagiarism?,escalate
+What happens if I get caught cheating?,escalate
+How are disciplinary cases handled?,escalate
+How do I report academic misconduct?,escalate
+How do I appeal a suspension?,escalate
+How do I request readmission after suspension?,escalate
+How do I request special exam conditions?,escalate
+How do I submit medical documents?,escalate
+How do I request exam rescheduling?,escalate
+Can I request disability accommodation?,escalate
+How do I apply for graduation?,escalate
+How do I apply for convocation?,escalate
+How do I get a transcript?,escalate
+How do I get an enrollment certificate?,escalate
+How do I get a degree certificate?,escalate
+How do I correct my name in university records?,escalate
+How do I update my personal details in EIS?,escalate
+"""My EIS account is locked, how can I unlock it?""",escalate
+"""I cannot access LMS, what should I do?""",escalate
+How do I reactivate my student account?,escalate
+How do I request attendance correction?,escalate
+How do I request a subject substitution?,escalate
+Can I reduce my credit load?,escalate
+Can I suspend my studies temporarily?,escalate
+How do I request a fee refund?,escalate
+How do I apply for scholarship reconsideration?,escalate
+"""I missed registration due to emergency, what can I do?""",escalate
+"""I need an urgent transcript for visa, what is the process?""",escalate
+How do I report harassment?,escalate
+How do I file a formal complaint?,escalate
+How do I request hostel transfer?,escalate
+How do I request dean approval?,escalate
+Can I register manually due to system error?,escalate
+How do I correct a mistake in my results sheet?,escalate
+Can I change my specialization urgently?,escalate
+Can I postpone graduation?,escalate
+How do I request an official letter?,escalate
+How do I report a technical error in EIS?,escalate
+How do I report a technical error in LMS?,escalate
+How do I get a duplicate student ID card?,escalate
+How do I report a lost student ID card?,escalate
+How do I request internship approval?,escalate
+How do I request industrial training approval?,escalate
+How do I request approval to exceed credit limit?,escalate
+How do I request approval to drop a compulsory subject?,escalate
+How do I escalate an academic complaint?,escalate
+How do I meet the registrar?,escalate
+How do I meet the dean?,escalate
+How do I request academic clearance?,escalate
+How do I request leave of absence?,escalate
+How do I request reconsideration?,escalate
+How do I request special permission?,escalate
+How do I change my personal details?,escalate
+How do I update my student profile?,escalate
+How do I unlock my account?,escalate
+How do I request exam remarking?,escalate
+How do I apply for credit transfer?,escalate
+How do I get GPA verification?,escalate
+How do I apply for graduation clearance?,escalate
+How do I report discrimination?,escalate
+How do I submit a grievance?,escalate
+How do I apply for medical leave?,escalate
+How do I request attendance waiver?,escalate
+How do I appeal academic probation?,escalate
+How do I rejoin after dropping out?,escalate
+How do I resume studies after gap?,escalate
+How do I change specialization?,escalate
+How do I switch degree program?,escalate
+How do I request exam center change?,escalate
+How do I request transcript urgently?,escalate
+How do I request degree verification?,escalate
+How do I get official confirmation letter?,escalate
+How do I contact faculty administration?,escalate
+How do I escalate my issue?,escalate
+How do I request special approval?,escalate
+How do I file an academic appeal?,escalate
+How do I get emergency approval?,escalate
+How do I request dean meeting?,escalate
+How do I correct incorrect marks?,escalate
+How do I apply for semester deferment?,escalate
+How do I withdraw permanently?,escalate
+How do I report a system problem?,escalate
+How do I get academic transcript copy?,escalate
+How do I get graduation certificate?,escalate
+How do I submit supporting documents?,escalate
+How do I request administrative review?,escalate
+How do I get official academic record?,escalate
+How do I update contact details?,escalate
+How do I request exception approval?,escalate
+How do I submit appeal documents?,escalate
+How do I request late enrollment?,escalate
+How do I change enrollment details?,escalate
+How do I correct enrollment error?,escalate
+How do I submit complaint form?,escalate
+How do I get approval for late add drop?,escalate
+How do I apply for academic reconsideration?,escalate
+How do I get proof of enrollment?,escalate
+How do I contact examination division?,escalate
+How do I contact registrar office?,escalate
+How do I get exam attendance certificate?,escalate
+How do I submit disciplinary appeal?,escalate
+How do I correct grade entry error?,escalate
+How do I request manual result correction?,escalate
+How do I submit formal request letter?,escalate
+How do I escalate result issue?,escalate
+How do I apply for special case approval?,escalate
+How do I get verification for external use?,escalate
+How do I report grading mistake?,escalate
+How do I file complaint to administration?,escalate
+How do I request administrative assistance?,escalate
+How do I request special case approval?,escalate
+How do I request administrative approval?,escalate
+How do I submit an academic appeal?,escalate
+How do I apply for semester deferment?,escalate
+How do I apply for year deferment?,escalate
+How do I request emergency leave?,escalate
+How do I apply for leave due to illness?,escalate
+How do I request reconsideration of results?,escalate
+How do I request a result correction?,escalate
+How do I file an academic complaint?,escalate
+How do I submit a disciplinary appeal?,escalate
+How do I report unfair grading?,escalate
+How do I escalate a grading issue?,escalate
+How do I request official confirmation?,escalate
+How do I request official documentation?,escalate
+How do I obtain certified copies?,escalate
+How do I request transcript urgently?,escalate
+How do I correct an error in EIS?,escalate
+How do I report incorrect attendance?,escalate
+How do I apply for attendance waiver?,escalate
+How do I request manual registration?,escalate
+How do I fix registration error?,escalate
+How do I change enrollment details?,escalate
+How do I withdraw from university permanently?,escalate
+How do I apply for readmission?,escalate
+How do I resume studies after interruption?,escalate
+How do I get approval for subject overload?,escalate
+How do I apply for academic probation review?,escalate
+How do I request GPA recalculation?,escalate
+How do I correct GPA mistake?,escalate
+How do I apply for degree upgrade?,escalate
+How do I apply for specialization change?,escalate
+How do I request internal transfer?,escalate
+How do I escalate an administrative issue?,escalate
+How do I contact faculty administration?,escalate
+How do I contact examination division?,escalate
+How do I contact registrar office?,escalate
+How do I apply for hostel transfer?,escalate
+How do I report ragging?,escalate
+How do I report discrimination?,escalate
+How do I request counselling support?,escalate
+How do I apply for financial relief?,escalate
+How do I apply for hardship consideration?,escalate
+How do I get academic clearance certificate?,escalate
+How do I request graduation clearance?,escalate
+How do I correct transcript mistake?,escalate
+How do I get duplicate degree certificate?,escalate
+How do I request proof of enrollment?,escalate
+How do I apply for late enrollment?,escalate
+How do I request administrative review?,escalate
+How do I request dean meeting?,escalate
+How do I request registrar meeting?,escalate
+How do I submit formal request letter?,escalate
+How do I request special permission for course?,escalate
+How do I apply for special academic approval?,escalate
+How do I request exception to rules?,escalate
+How do I get approval for missing deadline?,escalate
+How do I report system malfunction?,escalate
+How do I escalate technical problem?,escalate
+How do I request urgent document processing?,escalate
+How do I apply for credit exemption?,escalate
+How do I request academic verification?,escalate
+How do I get official grade confirmation?,escalate
+How do I submit supporting documents?,escalate
+How do I request change of registration status?,escalate
+How do I apply for semester break?,escalate
+How do I reapply after withdrawal?,escalate
+How do I request exam script review?,escalate
+How do I escalate attendance dispute?,escalate
+How do I apply for exception to prerequisite?,escalate
+How do I request adjustment due to medical reason?,escalate
+How do I request administrative intervention?,escalate
+How do I get official academic record?,escalate
+How do I update official student details?,escalate
+How do I apply for late add drop approval?,escalate
+How do I submit appeal documents?,escalate
+How do I file grievance against faculty?,escalate
+How do I escalate academic misconduct case?,escalate
+How do I request manual result update?,escalate
+How do I request transcript correction?,escalate
+How do I apply for official certification?,escalate
+How do I get official enrollment proof?,escalate
+How do I request exam attendance certificate?,escalate
+How do I report grading error?,escalate
+How do I get verification for external use?,escalate
+How do I escalate academic issue?,escalate
+How do I get official approval letter?,escalate
+How do I submit official complaint?,escalate
+How do I apply for academic reconsideration?,escalate
+How do I get administrative assistance?,escalate
+How do I escalate academic matter?,escalate
+I want to correct my exam mark.,escalate

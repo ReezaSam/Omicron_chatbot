@@ -1,0 +1,8 @@
+Total eval questions: 90
+Turn-1 routing accuracy: 0.667
+Clarify success rate after reply: 1.0
+Thresholds: default=0.57, admin=0.52
+TopK: 5
+Output:
+  - c:\Users\WINDOWS 1O\Desktop\Omicron_Bot\scripts\eval_outputs\evaluation_results.csv
+  - c:\Users\WINDOWS 1O\Desktop\Omicron_Bot\scripts\eval_outputs\confusion_matrix.png

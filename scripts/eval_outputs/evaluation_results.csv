@@ -1,0 +1,91 @@
+eval_id,question_text,action_expected,clarification_reply,department,year,semester,gold_keywords,pred_turn1,best_distance,keyword_overlap,pred_turn2_after_reply,clarify_success_after_reply
+1,What is the minimum GPA required to pass a semester?,answer,,,,,,answer,0.2409064769744873,2.0,,
+2,What is the grading system used in the faculty?,answer,,,,,,answer,0.5114683813731888,0.0,,
+3,What is the attendance requirement for lectures?,answer,,,,,,answer,0.3934444008303998,0.0,,
+4,How many credits are needed to complete the degree?,answer,,,,,,answer,0.31409002878428194,2.0,,
+5,What grades are considered a pass?,answer,,,,,,answer,0.48022743941708945,0.0,,
+6,How is the final GPA calculated?,answer,,,,,,answer,0.33931851387023926,2.0,,
+7,What happens if a student fails a course?,answer,,,,,,clarify,,,,
+8,Can a student repeat a failed subject?,answer,,,,,,clarify,,,,
+9,What is the maximum number of credits per semester?,answer,,,,,,answer,0.2517664432525635,2.0,,
+10,What is the grading criteria for assignments?,answer,,,,,,answer,0.43233766748533553,0.0,,
+11,What are the subjects in semester 1?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+12,What courses should I take this semester?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+13,List my semester 2 modules?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+14,What subjects are in the first year?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+15,What is the timetable for semester 1?,clarify,Computing 2nd year semester 1,,,,,answer,0.39361159725327033,1.0,answer,True
+16,What are the computing courses?,clarify,Computing 2nd year semester 1,,,,,answer,0.2854022766769607,2.0,answer,True
+17,What modules do I need to complete?,clarify,Computing 2nd year semester 1,,,,,answer,,,answer,True
+18,What subjects should I study now?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+19,List the courses for second year?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+20,What are my semester modules?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+21,How do I appeal my exam result?,escalate,,,,,,escalate,0.5893225073814392,1.0,,
+22,What is the process for academic suspension?,escalate,,,,,,answer,0.3838163797910076,0.0,,
+23,How do I apply for a medical deferment?,escalate,,,,,,escalate,0.6959103073993599,1.0,,
+24,What happens during a disciplinary hearing?,escalate,,,,,,answer,0.49088375351871694,1.0,,
+25,How do I transfer to another programme?,escalate,,,,,,escalate,0.6873334907293033,0.0,,
+26,Can I get a special consideration for missed exams?,escalate,,,,,,escalate,0.5876513544424875,2.0,,
+27,What is the process for re-evaluation of marks?,escalate,,,,,,answer,,,,
+28,Who do I contact for registration issues?,escalate,,,,,,escalate,0.7384794872546042,0.0,,
+29,How do I withdraw from a course?,escalate,,,,,,clarify,,,,
+30,What is the deadline extension process?,escalate,,,,,,escalate,0.6875831391687135,0.0,,
+31,What is a credit hour?,answer,,,,,,answer,0.4365052841010849,1.0,,
+32,How many semesters are in an academic year?,answer,,,,,,answer,0.40397313809554836,2.0,,
+33,What is the passing mark for examinations?,answer,,,,,,answer,0.4955071806907654,0.0,,
+34,How are supplementary exams conducted?,answer,,,,,,answer,0.49501776695251465,0.0,,
+35,What is academic probation?,answer,,,,,,answer,,,,
+36,Can a student take extra courses?,answer,,,,,,clarify,,,,
+37,What is the grading scale used?,answer,,,,,,answer,0.4387885593645896,0.0,,
+38,How do I check my exam results?,answer,,,,,,escalate,0.6316375732421875,0.0,,
+39,What is a GPA of 3.0 considered?,answer,,,,,,answer,0.39247894287109375,1.0,,
+40,What happens if I miss an exam?,answer,,,,,,escalate,0.5878284819228354,0.0,,
+41,How many credits are needed per semester?,answer,,,,,,answer,0.2668772339820862,1.0,,
+42,What does an incomplete grade mean?,answer,,,,,,answer,0.46651306548792415,1.0,,
+43,How long is the degree programme?,answer,,,,,,answer,0.32366673209269337,1.0,,
+44,What is a prerequisite course?,answer,,,,,,clarify,,,,
+45,What is a distinction grade?,answer,,,,,,answer,0.5095866924277948,1.0,,
+46,Can I take courses from another department?,answer,,,,,,clarify,,,,
+47,What is the academic calendar?,answer,,,,,,answer,,,,
+48,What is the medium of instruction?,answer,,,,,,answer,,,,
+49,How do I calculate my semester GPA?,answer,,,,,,answer,0.34638943352636187,1.0,,
+50,What is the role of a mentor?,answer,,,,,,answer,,,,
+51,What are the core subjects?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+52,Which courses are compulsory?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+53,What practical sessions do I have?,clarify,Computing 2nd year semester 1,,,,,answer,,,answer,True
+54,What lab courses are available?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+55,What electives can I choose?,clarify,Computing 2nd year semester 1,,,,,answer,,,answer,True
+56,How many subjects this year?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+57,What are my optional modules?,clarify,Computing 2nd year semester 1,,,,,answer,,,answer,True
+58,Which subjects should I prioritize?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+59,What courses are offered next semester?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+60,List available elective courses?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+61,What modules are in year 2?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+62,What are the first year courses?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+63,Which subjects have practicals?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+64,What is the course structure?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+65,What are semester 2 subjects?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+66,What modules are compulsory for me?,clarify,Computing 2nd year semester 1,,,,,answer,,,answer,True
+67,List subjects for my programme?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+68,What courses should I register for?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+69,What are the year 3 modules?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+70,What subjects do I study this semester?,clarify,Computing 2nd year semester 1,,,,,clarify,,,answer,True
+71,How do I request a grade review?,escalate,,,,,,answer,0.5387624846413681,1.0,,
+72,What is the readmission process?,escalate,,,,,,answer,,,,
+73,How do I get a leave of absence?,escalate,,,,,,answer,,,,
+74,What are the plagiarism consequences?,escalate,,,,,,answer,,,,
+75,How do I report academic misconduct?,escalate,,,,,,answer,0.38003039360046387,0.0,,
+76,Can I change my degree programme?,escalate,,,,,,answer,0.3728035243983836,1.0,,
+77,How do I get a medical certificate accepted?,escalate,,,,,,escalate,0.5668928961093952,0.0,,
+78,What happens if I get caught cheating?,escalate,,,,,,answer,,,,
+79,How do I apply for graduation?,escalate,,,,,,escalate,0.5606693959635128,0.0,,
+80,How do I get a transcript?,escalate,,,,,,escalate,0.6195881139986577,0.0,,
+81,Can I defer my entire semester?,escalate,,,,,,escalate,0.544442233774528,0.0,,
+82,How do I appeal a suspension?,escalate,,,,,,escalate,0.6233075261116001,1.0,,
+83,What is the fee refund policy?,escalate,,,,,,answer,,,,
+84,How do I get an enrollment certificate?,escalate,,,,,,escalate,0.5634506382614747,0.0,,
+85,What documents are needed for appeal?,escalate,,,,,,escalate,0.5716166666631896,1.0,,
+86,Who handles disciplinary cases?,escalate,,,,,,answer,0.49673575162887573,1.0,,
+87,How do I request special exam conditions?,escalate,,,,,,answer,0.46226201839035785,1.0,,
+88,What is the process for name correction?,escalate,,,,,,answer,,,,
+89,How do I get my degree certificate?,escalate,,,,,,answer,0.4785637259483301,1.0,,
+90,How do I withdraw from the university?,escalate,,,,,,escalate,0.5467340215067271,0.0,,
